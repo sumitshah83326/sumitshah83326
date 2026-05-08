@@ -26,7 +26,7 @@
 ## 🛠 Languages & Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,firebase" />
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,firebase" />
 </p>
 
 ---
@@ -36,27 +36,27 @@
 <p align="left">
 
 <a href="https://www.linkedin.com/in/contactsumitshah">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
 <a href="https://github.com/sumitshah83326">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=github" width="50"/>
 </a>
 
 <a href="https://leetcode.com/u/Lucky_Mohan/">
-<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/leetcode" width="50"/>
 </a>
 
 <a href="https://www.codechef.com/users/sumit_3364">
-<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/codechef" width="50"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/profile/sumitshaag0l">
-<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/geeksforgeeks" width="50"/>
 </a>
 
 <a href="https://www.hackerrank.com/profile/sumitshah83840">
-<img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/hackerrank" width="50"/>
 </a>
 
 </p>
@@ -66,15 +66,15 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sumitshah83326&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sumitshah83326&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitshah83326&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitshah83326&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitshah83326&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitshah83326&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -82,13 +82,8 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sumitshah83326&theme=algolia" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sumitshah83326&theme=algolia" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitshah83326&theme=react-dark" />
-</p>
