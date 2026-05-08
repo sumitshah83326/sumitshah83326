@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sumit Shah</h1>
-
-<h3 align="center">🚀 CSE Student | Full Stack Developer | AI Enthusiast</h3>
+<h1 align="center">Hi there, I'm Sumit Shah 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer;AI+Enthusiast;DSA+Learner;Building+Impactful+Projects" />
@@ -23,7 +21,7 @@
 
 ---
 
-## 🛠 Languages & Tools
+##  Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,firebase" />
@@ -31,7 +29,7 @@
 
 ---
 
-## 🌐 Connect With Me
+##  Connect With Me
 
 <p align="left">
 
@@ -63,7 +61,7 @@
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sumitshah83326&show_icons=true&theme=default" />
@@ -79,7 +77,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sumitshah83326&theme=algolia" />
