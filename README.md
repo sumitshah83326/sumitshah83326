@@ -6,7 +6,7 @@
 
 <img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png" width="100%" />
 
----
+<br><br>
 
 ## 👨‍💻 About Me
 
@@ -19,15 +19,15 @@
   - Civic Issue Reporting Platform  
   - Face Recognition System  
 
----
+<br>
 
-##  Languages & Tools
+## 🛠 Languages & Tools
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,firebase" />
 </p>
 
----
+<br>
 
 ##  Connect With Me
 
@@ -55,7 +55,7 @@
 
 </p>
 
----
+<br>
 
 ##  GitHub Stats
 
@@ -71,13 +71,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitshah83326&layout=compact&theme=default" />
 </p>
 
----
+<br>
 
 ##  GitHub Trophies
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sumitshah83326&theme=algolia" />
 </p>
-
----
-
