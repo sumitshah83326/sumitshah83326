@@ -37,10 +37,6 @@
   <img src="https://skillicons.dev/icons?i=linkedin" width="50"/>
 </a>
 
-<a href="https://github.com/sumitshah83326">
-  <img src="https://skillicons.dev/icons?i=github" width="50"/>
-</a>
-
 <a href="https://leetcode.com/u/Lucky_Mohan/">
   <img src="https://cdn.simpleicons.org/leetcode" width="50"/>
 </a>
