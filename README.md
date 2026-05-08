@@ -1,35 +1,94 @@
-
 <h1 align="center">Hi 👋, I'm Sumit Shah</h1>
+
+<h3 align="center">🚀 CSE Student | Full Stack Developer | AI Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub!;Web+Developer;AI+Enthusiast;DSA+Learner;Building+Impactful+Projects" />
+</p>
+
 <img src="https://user-images.githubusercontent.com/77008381/145186736-1d1a4508-60a3-4169-acb7-ede41a7c85d6.png" width="100%" />
-<h3 align="center">🚀 CSE Student at KIIT University, Bhubaneswar</h3>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 Student at KIIT University
-- 💻 Exploring Web Development & AI
-- 📚 Currently improving DSA
-- 🤖 Building Face Recognition Attendance System
+## 👨‍💻 About Me
+
+- 🎓 CSE Student at KIIT University, Bhubaneswar  
+- 💻 Full Stack Development Enthusiast  
+- 🤖 Interested in AI/ML Projects  
+- 📚 Solving DSA problems regularly  
+- 🚀 Built projects like:
+  - Smart Attendance System  
+  - Civic Issue Reporting Platform  
+  - Face Recognition System  
 
 ---
 
-### 🛠️ Languages & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css,git,github,mysql" />
+## 🛠 Languages & Tools
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,python,java,javascript,html,css,react,nodejs,mongodb,mysql,git,github,firebase" />
 </p>
 
 ---
 
-### 🔥 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=sumitshah83326&show_icons=true&theme=radical" />
-</p>
+## 🌐 Connect With Me
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitshah83326&theme=radical" />
+<p align="left">
+
+<a href="https://www.linkedin.com/in/contactsumitshah">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/sumitshah83326">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/Lucky_Mohan/">
+<img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.codechef.com/users/sumit_3364">
+<img src="https://img.shields.io/badge/CodeChef-brown?style=for-the-badge&logo=codechef&logoColor=white"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/profile/sumitshaag0l">
+<img src="https://img.shields.io/badge/GeeksforGeeks-green?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/sumitshah83840">
+<img src="https://img.shields.io/badge/HackerRank-darkgreen?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
 </p>
 
 ---
 
-### 🌐 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/contactsumitshah)
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=sumitshah83326&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitshah83326&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitshah83326&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=sumitshah83326&theme=algolia" />
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitshah83326&theme=react-dark" />
+</p>
